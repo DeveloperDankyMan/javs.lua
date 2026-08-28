@@ -1,5 +1,5 @@
 local javs = {}
-local prototypua = require("prototypua")
+local prototypua = require(script:WaitForChild("prototypua"))
 
 local function constructor(name, prototype, factory)
 	local value = { name = name, prototype = prototype }
