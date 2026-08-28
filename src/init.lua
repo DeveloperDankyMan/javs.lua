@@ -497,7 +497,6 @@ javs.Object, javs.Array, javs.String, javs.Number = Object, Array, String, Numbe
 javs.Boolean, javs.Symbol, javs.Map, javs.Set = Boolean, Symbol, Map, Set
 javs.Headers = Headers
 javs.Event, javs.CustomEvent, javs.EventTarget = Event, CustomEvent, EventTarget
-javs.prototypes = prototype_module
 javs.prototypua = prototypua
 javs.WeakMap, javs.WeakSet = WeakMap, WeakSet
 javs.Date, javs.RegExp, javs.Error = Date, RegExp, Error
